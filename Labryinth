@@ -1,0 +1,11 @@
+SO what the hell is express and why the do we use it and why do i need to use it and why is it so confusing,
+so let's start with complete basics.
+In simpler terms it is used to help 2 computers communicate.
+Now how do computers communicate, there is an concept known as OSI layer which basically says
+that there are finalized addresses known as IP address, and then there are temporary use devices in the process of transferring the data with the MAC address
+and all communication occurs with either WIFI or wires.
+So to send data from one computer to other we search for IP of the computer and send it there.
+Now when it comes to website or webpages or anything to the web, first we go to the address of the web and then based
+on the address stuff is displayed with the help of express, if we go to another address there then the express displays another data from the server
+now in databases, we can say go to database and do this, this is what exactly express does, it goes there and does something.
+express means go there and do something.
