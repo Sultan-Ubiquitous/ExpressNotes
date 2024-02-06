@@ -1,0 +1,4 @@
+So what I heard is basically, if there is a promise for example a fetch Api, we can use then and other keyword idk about to make something of it.
+If the promise is resolved the .then function will be executed and if not then the .catch will be executed.
+so if .then is executed then whatever it returns be it json file anything, we can store it somewhere and do whatever we need to do for it.
+If there are more promises nested in each other, we can nest it, like .then and .catch and what not so we can just go on and on and yeah that's it.
